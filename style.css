@@ -1,0 +1,108 @@
+.container {
+    background-color: #1e1801;
+    color: #dacdac;
+    padding-top: 50px;
+}
+
+#tit {
+    color: #0e9094;
+    text-align: center;
+    font-size: 150px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.titt {
+    text-align: center;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 100px;
+}
+
+.ABM, .AB, .BC, .CM {
+    color: #0e9094;
+}
+
+.Presentation {
+    text-align: center;
+}
+
+.E {
+    text-align: center;
+}
+
+.sn {
+    height: 30px;
+}
+
+.Education {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.es {
+    height: 150px;
+}
+
+.progress {
+    height: 10px;
+}
+
+.logo {
+    height: 50px;
+    margin: 20px;
+}
+
+.program {
+    width: 400px;
+}
+
+.AboutMe {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.Abilities {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.BriefCase {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.ContactMe {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#tablep {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#socialsF, #socials {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+#socialsF {
+    margin-top: 100px;
+}
+
+#floatingInput {
+    color:#1e1801;
+}
+
+button {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
